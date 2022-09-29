@@ -1,6 +1,6 @@
 # Intervention Image Kütüphanesi Örnek Çalışma
 
-### Intervention Image Kütüphanesini kullanarak vesikalık fotoğrafları listeleme ve çıktı alma
+### Intervention Image Kütüphanesini kullanarak vesikalık fotoğrafları listeleme ve çıktı almayy
 
 ## Screenshot - Output
 
